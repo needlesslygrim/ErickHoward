@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickHoward
-- 👀 I’m interested in programming and gaming.
-- 🌱 I’m currently learning Python, C# and, C++
+- 👀 I’m interested in programming, Linux and gaming.
+- 🌱 I’m currently learning Python, C#, Rust and, C++
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me -> You can't
 
