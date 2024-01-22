@@ -1,5 +1,4 @@
 - 👋 Hi, I’m needlesslygrim
-- 👀 I’m interested in programming, Linux and gaming.
 - 🌱 I know Rust, C#, Python, and some C/C++
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ We can collaborate on whatever you want :^)
 - 📫 How to reach me - needlesslygrim@proton.me
